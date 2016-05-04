@@ -1,0 +1,49 @@
+/* Empty. Add your own CSS if you like */
+.col-33 {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 0 33%;
+  -moz-box-flex: 0;
+  -moz-flex: 0 0 33%;
+  -ms-flex: 0 0 33%;
+  flex: 0 0 33%;
+  max-width: 33%; }
+
+.boxed{
+	  border: 1px solid green ;
+
+    background: url('../Misc/concrete.jpg') no-repeat;
+     padding-bottom: 1%;
+
+     
+    background-position: center;
+    
+    background-size:contain;
+
+
+    	
+}
+
+.overlay{
+	position: centre;
+	padding-top: 0%;
+	height: 100%;
+	width:100%;
+	padding-bottom: 0%;
+
+}
+.placehold{
+	opacity: 0;
+  position: absolute;
+  padding-top: 0%;
+  height: 100%;
+  width:100%;
+  padding-bottom: 0%;
+}
+#placehold{
+	opacity: 1%;
+}
+
+
+#center{
+	text-align: center;
+}
